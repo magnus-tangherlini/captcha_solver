@@ -1,0 +1,8 @@
+# Ignore MacOS system files
+.DS_Store
+
+#ignore images
+captcha/
+
+#ignore specific jupyter notebook
+captcha_classifier.ipynb
